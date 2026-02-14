@@ -196,5 +196,3 @@ To avoid charges, delete:
 -   Cost awareness and resource cleanup discipline
 
 ------------------------------------------------------------------------
-
-⭐ This project reflects real-world cloud engineering practices.
