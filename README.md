@@ -125,7 +125,6 @@ Inbound: - MySQL (3306) → EC2-SG
   <img src="Screenshots/wizard.png" width="400">
   <img src="Screenshots/manual.png" width="400">
   <img src="Screenshots/wizardcr.png" width="400">
-  <img src="Screenshots/4.png" width="400">
  </div>
 
 ## VPC Wizard
