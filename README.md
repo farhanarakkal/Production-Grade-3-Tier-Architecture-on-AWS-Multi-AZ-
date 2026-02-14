@@ -36,16 +36,6 @@ production-ready web applications.
     Private EC2 instances access the Internet via:
     NAT Gateway (Public Subnet) → Internet Gateway
 
-
-  <div style="display:flex; overflow-x:auto; gap:10px;">
-  <img src="Screenshots/1.png" width="400">
-  <img src="Screenshots/2.png" width="400">
-  <img src="Screenshots/3.png" width="400">
-  <img src="Screenshots/4.png" width="400">
- </div>
-
-
-
 ------------------------------------------------------------------------
 
 # 🧱 Architecture Components
@@ -121,13 +111,11 @@ Inbound: - MySQL (3306) → EC2-SG
 
 # 🛠 VPC Wizard vs Manual Setup
 
-<div style="display:flex; overflow-x:auto; gap:10px;">
-  <img src="Screenshots/wizard.png" width="400">
-  <img src="Screenshots/manual.png" width="400">
-  <img src="Screenshots/wizardcr.png" width="400">
- </div>
-
 ## VPC Wizard
+
+ ![ALB](Screenshots/wizard.png)
+ 
+ ![ALB](Screenshots/wizardcr.png)
 
 ### Advantages
 
@@ -144,6 +132,8 @@ Inbound: - MySQL (3306) → EC2-SG
 ------------------------------------------------------------------------
 
 ## Manual Setup
+
+![ALB](Screenshots/manual.png)
 
 ### Advantages
 
